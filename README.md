@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Huy
+- 👀 I’m interested in making money (that's why I'm learning IT)
+- 🌱 I’m currently learning C++, Python, Java and Web development
+- 📫 How to reach me: duchuyng051@gmail.com
