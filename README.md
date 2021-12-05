@@ -2,12 +2,12 @@ I am a college student 🎓 curious and experienced with 🎥 video production ,
 
 💡 Throughout the years I’ve developed the following set of skills:
 
-✅ Video editing
-✅ Websites designing
-✅ Programing in Java, C++ and Python
-✅ Administration for game servers
-✅ Social media page setup
-✅ Proficiency editing software such as Adobe Photoshop & Adobe Premiere
+✅ Video editing<br/>
+✅ Websites designing<br/>
+✅ Programing in Java, C++ and Python<br/>
+✅ Administration for game servers<br/>
+✅ Social media page setup<br/>
+✅ Proficiency editing software such as Adobe Photoshop & Adobe Premiere<br/>
 
 🌟 Send me a message via my email ( duchuyng051@gmail.com ), and you will hear from me as soon as possible.
 
