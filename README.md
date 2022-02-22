@@ -16,6 +16,9 @@
 	<a href="mailto:duchuyng051@gmail.com"><img img src="https://image.flaticon.com/icons/png/512/732/732200.png" alt="Gmail" width=42/></a>
   &emsp; 
 	<a href="https://github.com/dnguye12"><img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/github_logo_icon_147285.png" alt="GitHub" width=42/></a>
+  &emsp; 
+	<a href="https://www.facebook.com/khoaitaysuhaomatday/"><img src="https://weddinglab.ideadarte.com/wp-content/uploads/2018/02/facebook-icon.png" alt="Facebook" width=42/></a>
+	
 </p>
 
 <br>
