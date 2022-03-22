@@ -13,7 +13,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
   &emsp; 
-	<a href="mailto:duchuyng051@gmail.com"><img img src="https://image.flaticon.com/icons/png/512/732/732200.png" alt="Gmail" width=42/></a>
+	<a href="mailto:duchuyng051@gmail.com"><img img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="Gmail" width=42/></a>
   &emsp; 
 	<a href="https://github.com/dnguye12"><img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/github_logo_icon_147285.png" alt="GitHub" width=42/></a>
   &emsp; 
