@@ -5,7 +5,7 @@
 </p>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=dnguye12&theme=dark&date_format=j%20M%5B%20Y%5D&ring=023677&fire=0E82FF&currStreakLabel=0E82FF" alt="dnguye12" /></p>
+<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=dnguye12&theme=dark&date_format=j%20M%5B%20Y%5D&ring=023677&fire=0E82FF&currStreakLabel=0E82FF" alt="dnguye12" width="30px"/></p>
 
 <br>
 <br>
