@@ -5,12 +5,12 @@
 </p>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=dnguye12&theme=dark&date_format=j%20M%5B%20Y%5D&ring=023677&fire=0E82FF&currStreakLabel=0E82FF" alt="dnguye12" width="30px"/></p>
+<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=dnguye12&theme=dark&date_format=j%20M%5B%20Y%5D&ring=023677&fire=0E82FF&currStreakLabel=0E82FF" alt="dnguye12"/></p>
 
 <br>
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> Connect with me
 <p align="center">
   &emsp; 
 	<a href="mailto:duchuyng051@gmail.com"><img img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="Gmail" width=42/></a>
