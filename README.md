@@ -37,6 +37,7 @@
   <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/ > </a>
   &emsp;
    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/> </a> 
+	&emsp;
    <a href="https://ocaml.org/" target="_blank"> <img src="https://i.pinimg.com/originals/2c/2b/cb/2c2bcb4f1b3d56abc9ca62ebf8faff9e.png" alt="Ocaml" height="44" width="auto"/> </a> 
 </p>
 
