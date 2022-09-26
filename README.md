@@ -4,7 +4,7 @@
   <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'/>
 </p>
 
-## 🔥 Streak Stats
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="32" height="32"> Streak Stats
 <p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=dnguye12&theme=dark&date_format=j%20M%5B%20Y%5D&ring=023677&fire=0E82FF&currStreakLabel=0E82FF" alt="dnguye12"/></p>
 
 <br>
@@ -24,7 +24,7 @@
 <br>
 <br>
 
-## 🛠️ My Skills
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4aa/512.gif" alt="💪" width="32" height="32"> My Skills
 
 ### 👉 Programming languages
 
