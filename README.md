@@ -57,7 +57,7 @@
   <a href="https://getbootstrap.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" height="44" alt="bootstrap"/> </a> 
 	&nbsp;
 	&nbsp;
-  <a href="[https://getbootstrap.com/](https://reactjs.org/)" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="44" alt="React"/> </a> 
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="44" alt="React"/> </a> 
 </p>
 
 <br>
