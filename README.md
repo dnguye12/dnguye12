@@ -55,6 +55,9 @@
   <a href="https://www.qt.io/" target="_blank"> <img src="https://variwiki.com/images/archive/4/4e/20211220183943%21Qt_logo.png" height="44" alt="qt"/> </a>  
   &emsp;
   <a href="https://getbootstrap.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" height="44" alt="bootstrap"/> </a> 
+	&nbsp;
+	&nbsp;
+  <a href="[https://getbootstrap.com/](https://reactjs.org/)" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="44" alt="React"/> </a> 
 </p>
 
 <br>
