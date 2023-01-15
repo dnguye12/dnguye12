@@ -82,7 +82,7 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/7oSkaaa"><img alt="Duc Huy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dnguye12&custom_title=Huy's%20Contribution%20Graph&theme=react-dark" /></a>
+   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=dnguye12&bg_color=000a29&color=51c8fb&line=51c8fb&point=ffffff&area=true&hide_border=true" alt="">
   <br/>
 
 
