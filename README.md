@@ -5,7 +5,7 @@
 </p>
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="32" height="32"> Streak Stats
-<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=dnguye12&theme=dark&date_format=j%20M%5B%20Y%5D&ring=023677&fire=0E82FF&currStreakLabel=0E82FF" alt="dnguye12"/></p>
+<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=dnguye12&theme=dark&date_format=j%20M%5B%20Y%5D&ring=023677&fire=0E82FF&currStreakLabel=0E82FF" alt="dnguye12" width="100%"/></p>
 
 <br>
 <br>
@@ -70,10 +70,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/dnguye12/github-readme-stats"><img alt="Duc Huy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dnguye12&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/dnguye12/github-readme-stats"><img alt="Duc Huy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dnguye12&show_icons=true&count_private=true&theme=algolia" width="100%"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dnguye12&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="dnguye12" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dnguye12&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="dnguye12" width="100%"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
@@ -82,7 +82,7 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=dnguye12&bg_color=000a29&color=51c8fb&line=51c8fb&point=ffffff&area=true&hide_border=true" alt="">
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dnguye12&bg_color=050f2c&color=ffffff&line=00aeff&point=ffffff&area=true&hide_border=true" alt="">
   <br/>
 
 
